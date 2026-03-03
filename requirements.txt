@@ -1,0 +1,14 @@
+# GAME-O-HUB — AI Games Python Dependencies
+# Install with: pip install -r requirements.txt
+
+pygame>=2.5.0
+opencv-python>=4.8.0
+deepface>=0.0.93
+tf-keras>=2.16.0
+SpeechRecognition>=3.10.0
+requests>=2.31.0
+
+# pyaudio must be installed separately (see README)
+# Windows: pip install pipwin && pipwin install pyaudio
+# macOS:   brew install portaudio && pip install pyaudio
+# Linux:   sudo apt install python3-pyaudio && pip install pyaudio
